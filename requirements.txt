@@ -1,0 +1,9 @@
+# Neural Network Fundamentals - Required Dependencies
+# Install with: pip install -r requirements.txt
+
+numpy>=1.21.0
+matplotlib>=3.5.0
+ipywidgets>=8.0.0
+jupyterlab>=3.0.0
+notebook>=6.0.0
+
