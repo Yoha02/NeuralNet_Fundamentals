@@ -1121,7 +1121,7 @@ NeuralNet_Fundamentals/
 ├── LICENSE
 ├── README.md
 ├── PROJECT_PLAN.md (this file)
-├── neural_network_fundamentals.ipynb (main notebook)
+├── part_1_neural_network_fundamentals.ipynb (Part 1 notebook)
 └── requirements.txt
 ```
 

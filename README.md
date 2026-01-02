@@ -47,7 +47,7 @@ Unlike typical tutorials that jump into frameworks and abstract concepts, this s
 
 ## The Learning Journey
 
-### Part 0-1: Matrices and Fundamentals (`neural_network_fundamentals.ipynb`)
+### Part 1: Matrices and Fundamentals (`part_1_neural_network_fundamentals.ipynb`)
 *"The committee learns to read images as numbers"*
 
 - What neural networks are and why they matter
@@ -244,7 +244,7 @@ NeuralNet_Fundamentals/
 ├── README.md                              # This file
 ├── PROJECT_PLAN.md                        # Detailed project blueprint
 ├── requirements.txt                       # Python dependencies
-├── neural_network_fundamentals.ipynb      # Part 0-1: Introduction & Matrices
+├── part_1_neural_network_fundamentals.ipynb  # Part 1: Introduction & Matrices
 ├── part_2_single_neuron.ipynb             # Part 2: The Single Neuron
 ├── part_3_activation_functions.ipynb      # Part 3: Activation Functions
 ├── part_4_perceptron.ipynb                # Part 4: The Perceptron
@@ -327,6 +327,6 @@ This series was designed to make neural networks accessible to everyone, regardl
 
 ---
 
-**Ready to begin?** Open `neural_network_fundamentals.ipynb` and meet your committee!
+**Ready to begin?** Open `part_1_neural_network_fundamentals.ipynb` and meet your committee!
 
 *"The Brain's Decision Committee awaits."*
